@@ -1,0 +1,11 @@
+{
+ "schema": "deinterlacer-control/1",
+ "default": "active",
+ "codes": {},
+ "release": null,
+ "updated": "2026-11-25 02:49",
+ "feedback": {
+  "repo": "SSibal29/lenticular-deinterlacer-feedback",
+  "key": "-bbBzFQbpMeasUR6GR0acRwgnAa-U1RApy4-ElXoqrZ4irpc--QRctpJVju9HqE7v0lsFb33nACN8nGZJ2Iin9cLxvH7yjyyGQYsUe2v4B-Mg2kztq3ofgLZFB3B"
+ }
+}
